@@ -3,7 +3,8 @@ krlmlr/rig-centos7
 krlmlr/r-minimal
 cynkra/dm
 cynkra/r-debug
-cynkra/rig-ubuntu-igraph
 cynkra/rig-ubuntu
+cynkra/rig-ubuntu-dbi
+cynkra/rig-ubuntu-igraph
 cynkra/rig-ubuntu-duckdb
 r-dbi/RPostgres
