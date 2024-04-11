@@ -8,3 +8,4 @@ cynkra/rig-ubuntu-dbi
 cynkra/rig-ubuntu-igraph
 cynkra/rig-ubuntu-duckdb
 r-dbi/RPostgres
+krlmlr/r-4-duckdb
