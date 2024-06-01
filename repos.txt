@@ -1,5 +1,6 @@
 krlmlr/rigraph-san
 krlmlr/rig-centos7
+krlmlr/rig-rocky8
 krlmlr/r-minimal
 cynkra/dm
 cynkra/r-debug
